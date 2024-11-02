@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ting-Yuan Wang</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Ting-Yuan Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>/posts/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/about/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Research assisstent, &lt;a href=&#34;https://www.iis.sinica.edu.tw/en/index.html&#34;&gt;Institute of Information Science&lt;/a&gt;, &lt;a href=&#34;https://www.sinica.edu.tw/en/&#34;&gt;Academia Sinica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Email: &lt;a href=&#34;mailto:deanwang88528@gmail.com&#34;&gt;deanwang88528@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Pahamanx&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=bFCxQMEAAAAJ&amp;hl=zh-TW&amp;oi=sra&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Currently, I am applying for PhD programs and would be happy to discuss potential opportunities. Please feel free to reach out to me if you are looking for PhD students.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Hi! I am a research assistant in the Institute of Information Science research group at Academia Sinica, Taiwan, advised by Prof. &lt;a href=&#34;https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html&#34;&gt;Bo-Yin Yang&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My interests lie in cryptography and quantum computing, with a focus on real-world application. Recently, I have been working on the implementation and formal verification of post-quantum algorithms, specifically optimizing sntrup761 for OpenSSH.&lt;/p&gt;</description>
+      <content>&lt;ul&gt;
+&lt;li&gt;Research assisstent, &lt;a href=&#34;https://www.iis.sinica.edu.tw/en/index.html&#34;&gt;Institute of Information Science&lt;/a&gt;, &lt;a href=&#34;https://www.sinica.edu.tw/en/&#34;&gt;Academia Sinica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Email: &lt;a href=&#34;mailto:deanwang88528@gmail.com&#34;&gt;deanwang88528@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Pahamanx&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=bFCxQMEAAAAJ&amp;hl=zh-TW&amp;oi=sra&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Currently, I am applying for PhD programs and would be happy to discuss potential opportunities. Please feel free to reach out to me if you are looking for PhD students.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Hi! I am a research assistant in the Institute of Information Science research group at Academia Sinica, Taiwan, advised by Prof. &lt;a href=&#34;https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html&#34;&gt;Bo-Yin Yang&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My interests lie in cryptography and quantum computing, with a focus on real-world application. Recently, I have been working on the implementation and formal verification of post-quantum algorithms, specifically optimizing sntrup761 for OpenSSH.&lt;/p&gt;
+&lt;p&gt;Prior to coming to the Academia Sinica, I completed my B.S with honors in &lt;a href=&#34;https://en.csie.ncu.edu.tw/&#34;&gt;Computer Science at National Central University (NCU)&lt;/a&gt;, Taiwan. where I was lucky to have the chances to work with Prof. &lt;a href=&#34;https://staff.csie.ncu.edu.tw/jrjiang/&#34;&gt;Jehn-Ruey Jiang&lt;/a&gt; in distributed Shor&amp;rsquo;s algorithm and Prof. Szu-Cheng Cheng in quantum pairs trading.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
